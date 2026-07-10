@@ -1,4 +1,4 @@
-Hello, I'm Igor!
+Howdy, I'm Igor!
 
 I am a game developer who loves doing low-level game development.
 
