@@ -12,8 +12,8 @@ And I also use these IDEs:
 
 Currently I'm working on a few projects, such as:
 
-- TDS Macro (A Macro for the game "Tower Defense Simulator" on roblox)
-- A Minecraft Clone on Raylib C++
+- Minecraft: Bedrock Edition patcher, which patches the game to run on Mac,
+- A 3D Vulkan Game Engine
 - Much more.
 
 
